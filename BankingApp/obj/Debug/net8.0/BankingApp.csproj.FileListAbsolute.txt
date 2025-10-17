@@ -1,0 +1,15 @@
+C:\Users\aolan\source\repos\BankingApp\BankingApp\bin\Debug\net8.0\BankingApp.exe
+C:\Users\aolan\source\repos\BankingApp\BankingApp\bin\Debug\net8.0\BankingApp.deps.json
+C:\Users\aolan\source\repos\BankingApp\BankingApp\bin\Debug\net8.0\BankingApp.runtimeconfig.json
+C:\Users\aolan\source\repos\BankingApp\BankingApp\bin\Debug\net8.0\BankingApp.dll
+C:\Users\aolan\source\repos\BankingApp\BankingApp\bin\Debug\net8.0\BankingApp.pdb
+C:\Users\aolan\source\repos\BankingApp\BankingApp\obj\Debug\net8.0\BankingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aolan\source\repos\BankingApp\BankingApp\obj\Debug\net8.0\BankingApp.AssemblyInfoInputs.cache
+C:\Users\aolan\source\repos\BankingApp\BankingApp\obj\Debug\net8.0\BankingApp.AssemblyInfo.cs
+C:\Users\aolan\source\repos\BankingApp\BankingApp\obj\Debug\net8.0\BankingApp.csproj.CoreCompileInputs.cache
+C:\Users\aolan\source\repos\BankingApp\BankingApp\obj\Debug\net8.0\BankingApp.sourcelink.json
+C:\Users\aolan\source\repos\BankingApp\BankingApp\obj\Debug\net8.0\BankingApp.dll
+C:\Users\aolan\source\repos\BankingApp\BankingApp\obj\Debug\net8.0\refint\BankingApp.dll
+C:\Users\aolan\source\repos\BankingApp\BankingApp\obj\Debug\net8.0\BankingApp.pdb
+C:\Users\aolan\source\repos\BankingApp\BankingApp\obj\Debug\net8.0\BankingApp.genruntimeconfig.cache
+C:\Users\aolan\source\repos\BankingApp\BankingApp\obj\Debug\net8.0\ref\BankingApp.dll
